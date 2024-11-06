@@ -18,7 +18,6 @@ const Body = () => {
           for their practical wisdom on various aspects of life, governance, and
           personal conduct.
         </p>
-        <Collection />
       </div>
     </div>
   );

@@ -14,11 +14,13 @@ const Collection = () => {
             </button>
           </Link>
 
-          <button className="flex items-center h-16  w-96 rounded-md bg-blue-500 mt-5 ">
-            <div class="bg-red-600 w-12 h-12 rounded-full ml-2 flex items-center justify-center">
-              <h1 className="text-yellow-500 text-lg">2</h1>
-            </div>
-          </button>
+          <Link to={"/Chapter/1"}>
+            <button className="flex items-center h-16  w-96 rounded-md bg-blue-500 mt-5 ">
+              <div class="bg-red-600 w-12 h-12 rounded-full ml-2 flex items-center justify-center">
+                <h1 className="text-yellow-500 text-lg">2</h1>
+              </div>
+            </button>
+          </Link>
         </div>
 
         <div className="flex items-center justify-between gap-10 px-6">
