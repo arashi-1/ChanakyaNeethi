@@ -11,43 +11,45 @@ const Chapter1 = () => {
 
       <div className="relative flex flex-col items-center mt-10 m-5 max-w-screen-lg mx-auto">
         {/* Verse 1 */}
-        <h1 className="text-3xl text-center">
-          प्रणम्य शिरसा विष्णुं त्रैलोक्याधिपतिं प्रभुम् ।<br />
-          नानाशास्त्रोद्धृतं वक्ष्ये राजनीतिसमुच्चयम् ॥ 01 ॥
-        </h1>
-        <div className="mt-7">
-          <p className="font-semibold mt-5 text-center">
-            यह श्लोक भारतीय शास्त्रों के एक महत्वपूर्ण पाठ का हिस्सा है। इस
-            श्लोक में, रचनाकार ने भगवान विष्णु का ध्यान करते हुए राजनीति के
-            विभिन्न पहलुओं पर चर्चा करने का संकल्प किया है।
-          </p>
-          <br />
-          <p>
-            <b>सरल उदाहरण:</b>
+        <div className="relative flex flex-col items-center mt-10 m-5">
+          <h1 className="text-3xl text-center">
+            प्रणम्य शिरसा विष्णुं त्रैलोक्याधिपतिं प्रभुम् ।<br />
+            नानाशास्त्रोद्धृतं वक्ष्ये राजनीतिसमुच्चयम् ॥ 01 ॥
+          </h1>
+          <div className="mt-7">
+            <p className="font-semibold mt-5 text-center">
+              यह श्लोक भारतीय शास्त्रों के एक महत्वपूर्ण पाठ का हिस्सा है। इस
+              श्लोक में, रचनाकार ने भगवान विष्णु का ध्यान करते हुए राजनीति के
+              विभिन्न पहलुओं पर चर्चा करने का संकल्प किया है।
+            </p>
             <br />
-            <b>हिंदी में:</b> मान लीजिए, किसी भी क्षेत्र में जैसे कि एक गांव में
-            चुनाव हो रहे हैं। लोग अपनी वोटिंग के माध्यम से अपने नेता का चयन करते
-            हैं। भगवान विष्णु का स्मरण करते हुए हम यह समझते हैं कि एक अच्छा नेता
-            वही है जो सभी को समान रूप से देखता है, त्रिलोक के स्वामी की तरह।
-            राजनीति में सही और गलत के बीच का निर्णय लेना और धर्म के अनुसार चलना
-            अत्यंत आवश्यक है।
+            <p>
+              <b>सरल उदाहरण:</b>
+              <br />
+              <b>हिंदी में:</b> मान लीजिए, किसी भी क्षेत्र में जैसे कि एक गांव
+              में चुनाव हो रहे हैं। लोग अपनी वोटिंग के माध्यम से अपने नेता का
+              चयन करते हैं। भगवान विष्णु का स्मरण करते हुए हम यह समझते हैं कि एक
+              अच्छा नेता वही है जो सभी को समान रूप से देखता है, त्रिलोक के
+              स्वामी की तरह। राजनीति में सही और गलत के बीच का निर्णय लेना और
+              धर्म के अनुसार चलना अत्यंत आवश्यक है।
+              <br />
+              <br />
+              <b>English:</b> Imagine a situation where elections are happening
+              in a village. People choose their leader through voting. While
+              remembering Lord Vishnu, we understand that a good leader is one
+              who treats everyone equally, much like the lord of the three
+              worlds. It is essential in politics to make decisions between
+              right and wrong and to act according to righteousness.
+            </p>
             <br />
-            <br />
-            <b>English:</b> Imagine a situation where elections are happening in
-            a village. People choose their leader through voting. While
-            remembering Lord Vishnu, we understand that a good leader is one who
-            treats everyone equally, much like the lord of the three worlds. It
-            is essential in politics to make decisions between right and wrong
-            and to act according to righteousness.
-          </p>
-          <br />
-          <p>
-            <b>निष्कर्ष:</b>
-            <br />
-            इस श्लोक का मुख्य उद्देश्य यह है कि राजनीति में धर्म, नैतिकता, और
-            ज्ञान का समावेश होना चाहिए, जिससे समाज का सर्वांगीण विकास हो सके।
-            भगवान विष्णु का स्मरण हमें इस दिशा में प्रेरित करता है।
-          </p>
+            <p>
+              <b>निष्कर्ष:</b>
+              <br />
+              इस श्लोक का मुख्य उद्देश्य यह है कि राजनीति में धर्म, नैतिकता, और
+              ज्ञान का समावेश होना चाहिए, जिससे समाज का सर्वांगीण विकास हो सके।
+              भगवान विष्णु का स्मरण हमें इस दिशा में प्रेरित करता है।
+            </p>
+          </div>
         </div>
 
         {/* Verse 2 */}
