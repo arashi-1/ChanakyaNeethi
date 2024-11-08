@@ -350,47 +350,6 @@ const Chapter3 = () => {
               </p>
             </div>
           </div>
-
-          {/* Verse 7 */}
-          <div className="relative flex flex-col items-center mt-10 m-5">
-            <h1 className="text-3xl text-center">
-              मूर्खस्तु प्रहर्तव्यः प्रत्यक्षो द्विपदः पशुः । <br />
-              भिद्यते वाक्य-शल्येन अदृशं कण्टकं यथा ॥ 07 ॥
-            </h1>
-            <div className="mt-7">
-              <p className="font-semibold mt-5 text-center">
-                मूर्ख व्यक्ति को दंड देना चाहिए, वह प्रत्यक्ष रूप से उस तरह के
-                पशु के समान होता है जो केवल शारीरिक रूप से मनुष्य दिखता है। जैसे
-                कांटा अदृश्य होते हुए भी घाव करता है, उसी तरह मूर्ख के शब्द भी
-                मनुष्य को मानसिक रूप से चोट पहुँचा सकते हैं।
-              </p>
-              <br />
-              <p>
-                <b>सरल उदाहरण:</b>
-                <br />
-                <b>हिंदी में:</b> मान लीजिए, एक व्यक्ति निरंतर किसी को नकारात्मक
-                शब्दों से आहत करता है। भले ही वह शारीरिक रूप से किसी को नुकसान
-                नहीं पहुँचा रहा हो, लेकिन उसके शब्दों से सामने वाला मानसिक रूप
-                से परेशान हो सकता है। इस तरह का व्यवहार एक मूर्खता के समान है,
-                और इससे बचना चाहिए।
-                <br />
-                <br />
-                <b>English:</b> Imagine a person who constantly criticizes
-                others with hurtful words. While they may not physically harm
-                anyone, the mental damage they cause can be significant. This
-                kind of behavior is compared to a fool's, as their words are
-                like hidden thorns that can cause pain.
-              </p>
-              <br />
-              <p>
-                <b>निष्कर्ष:</b>
-                <br />
-                इस श्लोक से यह शिक्षा मिलती है कि हमें अपनी वाणी और व्यवहार पर
-                ध्यान देना चाहिए। मूर्खता से बचने के लिए अपने शब्दों का चयन
-                सावधानी से करें, क्योंकि शब्दों से मानसिक आघात हो सकता है।
-              </p>
-            </div>
-          </div>
           {/* Verse 8 */}
           <div className="relative flex flex-col items-center mt-10 m-5">
             <h1 className="text-3xl text-center">
