@@ -8,6 +8,7 @@ import Chapter4 from "./utlis/pages/Chapter4";
 import Chapter5 from "./utlis/pages/Chapter5";
 import Chapter6 from "./utlis/pages/Chapter6";
 import Chapter7 from "./utlis/pages/Chapter7";
+import Chapter8 from "./utlis/pages/chapter8";
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
         <Route path="/chapter/5" element={<Chapter5 />} />
         <Route path="/chapter/6" element={<Chapter6 />} />
         <Route path="/chapter/7" element={<Chapter7 />} />
+        <Route path="/chapter/8" element={<Chapter8 />} />
       </Routes>
     </>
   );
