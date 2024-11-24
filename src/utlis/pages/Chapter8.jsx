@@ -9,7 +9,7 @@ const Chapter8 = () => {
         </h1>
       </div>
 
-      <h1 className="font-samarkan text-5xl mt-12">Chapter 7</h1>
+      <h1 className="font-samarkan text-5xl mt-12">Chapter 8</h1>
 
       <div className="relative flex flex-col items-center mt-10 m-5 max-w-screen-lg mx-auto">
         {/* Verse 1 */}
